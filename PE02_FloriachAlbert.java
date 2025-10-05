@@ -58,7 +58,7 @@ public class PE02_FloriachAlbert {
                     if (accio2.equals("donar ma")) {
                 
                     System.out.println("\n");
-                
+
 
                     System.out.println("Et mira mentre sonriu i.. El parlament explota.");
                     }
@@ -79,15 +79,15 @@ public class PE02_FloriachAlbert {
                 
                 }
                 }
-                
-
-                }
             else if (accio1.equals("seure")) {
                 
                 System.out.println("\n");
 
                 System.out.println("Et miren tots i al cap de 3 segons explota tot el parlament");
                 System.out.println("(Bad Ending)");
+
+                }
+            
             } 
                 
             
